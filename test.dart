@@ -10,5 +10,6 @@ void main() {
   stdout.write("hytyjuyj");
   stdout.write("hytyjuyj");
   stdout.writeln();
-  stdout.write("hello world");
+  stdout.write("hell");
+  stdout.write("object");
 }
