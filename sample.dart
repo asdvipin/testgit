@@ -2,9 +2,9 @@ import 'dart:io';
 
 void main() {
   stdout.write("object");
-  stdout.write("fgfgrgfb");
+  stdout.write("hello");
+  stdout.write("hello");
   stdout.write("object");
-  stdout.write("hghgrtrtrdfd");
-  stdout.write("hytyjuyj");
+  stdout.write("tytytter");
 
 }
