@@ -4,7 +4,12 @@ void main() {
   stdout.write("object");
   stdout.write("fgfgrgfb");
   stdout.write("object");
-  stdout.write("hghgrtrtrdfd");
+  stdout.write("hgh");
   stdout.write("hytyjuyj");
+  stdout.write("hytyjuyj");
+  stdout.write("hytyjuyj");
+  stdout.write("hytyjuyj");
+
+
 
 }
